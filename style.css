@@ -1,0 +1,170 @@
+*
+{
+    font-family: sans-serif
+}
+a
+{
+    color: blueviolet;
+    transition: all 0.7s ease-out;
+    text-decoration: none;
+}
+a:hover
+{
+    color: deepskyblue;
+    cursor: pointer;
+}
+#navbar
+{
+    text-align: center;
+    font-size: 150%;
+    padding: 15px;
+}
+#navbar a
+{
+    margin: 0 30px;
+}
+#content
+{
+    width: 1000px;
+    color: white;
+    display: inline-block;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+#akapit1, #akapit2
+{
+    width: 50%;
+    padding: 50px;
+    box-sizing: border-box;
+}
+#akapit1
+{
+    float: left;
+}
+#akapit2
+{
+    float: right;
+}
+#conteiner
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#rs
+{
+    width: 38px;
+    border-radius: 20px;
+    
+}
+#headtext
+{
+    font-size: 150%;
+    color: white;
+}
+#header
+{
+    text-align-last: center;
+    font-size: 250%;
+    color: white;
+    
+    
+}
+#header > span
+{
+    padding: 25px;
+    display: block;
+}
+body
+{
+    background-image: url(https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif?cid=ecf05e47c2z7m94jdw29i3b906hlt7x77czxknjiofjve58b&ep=v1_gifs_related&rid=giphy.gif&ct=g);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#fotter
+{
+    text-align: center;
+    color: white;
+    padding-top: 343px;
+}
+#fottersocial
+{
+    text-align: center;
+    color: white;
+    padding-top: 126px;
+}
+#fotterpc
+{
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+}
+#pcikon
+{
+    width: 30px;
+    padding: 5px
+        
+}
+#sociale
+{
+    width: 30px
+}
+#pcikon2
+{
+    width: 200px;
+    padding: 20px;
+}
+#pcikont
+{
+    padding: 100px;
+}
+#tvpng
+{
+    width: 100px;
+    padding: 20px
+}
+#tikpng
+{
+    width: 100px;
+    padding: 20px;
+}
+#instapng
+{
+    width: 100px;
+    padding: 20px       
+}
+#ytpng
+{
+    width: 100px;
+    padding: 20px
+}
+#steampng
+{
+    width: 100px;
+    padding: 20px
+}
+#twitterpng
+{
+    width: 100px;
+    padding: 20px;
+}
+#per
+{
+    width: 100px;
+    padding: 20px;
+}
+#arctis
+{
+    width: 100px;
+    padding: 20px;
+}
+#xb2
+{
+    width: 100px;
+    padding: 20px;
+}
